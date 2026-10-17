@@ -2,3 +2,4 @@
 .data/processed/
 brainscan_ai/data/raw/
 brainscan_ai/data/processed/
+*.h5
